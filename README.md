@@ -59,3 +59,4 @@ Once node and npm are installed, PHP and JavaScript dependencies can be installe
 $ make
 ```
 Please execute this command with your ordinary user account and neither root nor sudo.
+
