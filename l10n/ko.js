@@ -172,6 +172,13 @@ OC.L10N.register(
     "November" : "11월",
     "December" : "12월",
     "_{count} time_::_{count} times_" : ["{count}회"],
+    "Getting in the car" : "차에 탈 때",
+    "Getting out of the car" : "차에서 내릴 때",
+    "When I arrive at {location}" : "{location}에 도착할 때",
+    "When I arrive" : "도착할 때",
+    "When I leave {location}" : "{location}에서 떠날 때",
+    "When I leave" : "떠날 때",
+    "Remind me at a location" : "위치에서 알리기",
     "An error occurred" : "오류가 발생함",
     "Message from {author} in {conversationName}" : "{conversationName}에서 {author}가 보낸 메시지"
 },

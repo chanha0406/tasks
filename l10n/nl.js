@@ -352,6 +352,13 @@ OC.L10N.register(
     "{time} before the task starts" : "{time} voordat de taak start",
     "{time} before the task is due" : "{time} voordat de taak vervalt",
     "{time} after the task starts" : "{time} nadat de taak gestart is",
-    "{time} after the task is due" : "{time} nadat de taak is vervallen"
+    "{time} after the task is due" : "{time} nadat de taak is vervallen",
+    "Getting in the car" : "In auto stappen",
+    "Getting out of the car" : "Uit auto stappen",
+    "When I arrive at {location}" : "Aankomst: {location}",
+    "When I arrive" : "Aankomst",
+    "When I leave {location}" : "Vertrek: {location}",
+    "When I leave" : "Vertrek",
+    "Remind me at a location" : "Herinner mij op een locatie"
 },
 "nplurals=2; plural=(n != 1);");

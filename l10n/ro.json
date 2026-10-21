@@ -350,6 +350,13 @@
     "{time} before the task starts" : "{time} înainte de începerea sarcinii",
     "{time} before the task is due" : "{time} înainte de scadența sarcinii",
     "{time} after the task starts" : "{time} după începerea sarcinii",
-    "{time} after the task is due" : "{time} după scadența sarcinii"
+    "{time} after the task is due" : "{time} după scadența sarcinii",
+    "Getting in the car" : "Urcarea în mașină",
+    "Getting out of the car" : "Coborârea din mașină",
+    "When I arrive at {location}" : "Sosire: {location}",
+    "When I arrive" : "Sosire",
+    "When I leave {location}" : "Plecare: {location}",
+    "When I leave" : "Plecare",
+    "Remind me at a location" : "Reamintire la o locație"
 },"pluralForm" :"nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));"
 }

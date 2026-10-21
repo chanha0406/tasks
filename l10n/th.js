@@ -75,6 +75,13 @@ OC.L10N.register(
     "October" : "ตุลาคม",
     "November" : "พฤศจิกายน",
     "December" : "ธันวาคม",
-    "An error occurred" : "เกิดข้อผิดพลาด"
+    "An error occurred" : "เกิดข้อผิดพลาด",
+    "Getting in the car" : "ขึ้นรถ",
+    "Getting out of the car" : "ลงจากรถ",
+    "When I arrive at {location}" : "ถึง: {location}",
+    "When I arrive" : "ถึง",
+    "When I leave {location}" : "ออกจาก: {location}",
+    "When I leave" : "ออก",
+    "Remind me at a location" : "เตือนฉันที่ตำแหน่ง"
 },
 "nplurals=1; plural=0;");

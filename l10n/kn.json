@@ -32,6 +32,13 @@
     "September" : "﻿ಸೆಪ್ಟೆಂಬರ್",
     "October" : "﻿ಅಕ್ಟೋಬರ್",
     "November" : "﻿ನವೆಂಬರ್",
-    "December" : "﻿ಡಿಸೆಂಬರ್"
+    "December" : "﻿ಡಿಸೆಂಬರ್",
+    "Getting in the car" : "ಕಾರಿಗೆ ಹತ್ತುವಾಗ",
+    "Getting out of the car" : "ಕಾರಿನಿಂದ ಇಳಿಯುವಾಗ",
+    "When I arrive at {location}" : "ಆಗಮನ: {location}",
+    "When I arrive" : "ಆಗಮನ",
+    "When I leave {location}" : "ನಿರ್ಗಮನ: {location}",
+    "When I leave" : "ನಿರ್ಗಮನ",
+    "Remind me at a location" : "ಸ್ಥಳದಲ್ಲಿ ನನಗೆ ನೆನಪಿಸು"
 },"pluralForm" :"nplurals=2; plural=(n > 1);"
 }

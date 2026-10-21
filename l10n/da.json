@@ -350,6 +350,13 @@
     "{time} before the task starts" : "{time} før opgaven starter",
     "{time} before the task is due" : "{time} før opgaven forfalder",
     "{time} after the task starts" : "{time} efter opgavens start",
-    "{time} after the task is due" : "{time} efter opgavens forfaldsdato"
+    "{time} after the task is due" : "{time} efter opgavens forfaldsdato",
+    "Getting in the car" : "Når jeg stiger ind i bilen",
+    "Getting out of the car" : "Når jeg stiger ud af bilen",
+    "When I arrive at {location}" : "Ankomst: {location}",
+    "When I arrive" : "Ankomst",
+    "When I leave {location}" : "Afrejse: {location}",
+    "When I leave" : "Afrejse",
+    "Remind me at a location" : "Påmind mig på et sted"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

@@ -350,6 +350,13 @@
     "{time} before the task starts" : "任務開始前 {time}",
     "{time} before the task is due" : "任務截止前 {time}",
     "{time} after the task starts" : "任務開始後 {time}",
-    "{time} after the task is due" : "任務截止後 {time}"
+    "{time} after the task is due" : "任務截止後 {time}",
+    "Getting in the car" : "上車",
+    "Getting out of the car" : "下車",
+    "When I arrive at {location}" : "抵達：{location}",
+    "When I arrive" : "抵達",
+    "When I leave {location}" : "離開：{location}",
+    "When I leave" : "離開",
+    "Remind me at a location" : "到達某地時提醒"
 },"pluralForm" :"nplurals=1; plural=0;"
 }

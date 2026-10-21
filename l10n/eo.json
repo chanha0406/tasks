@@ -165,6 +165,13 @@
     "[Starts tomorrow at] LT" : "[Komenciĝos morgaŭ je] LT",
     "[Starts on] LL [at] LT" : "[Komenciĝas] LL [je] LT",
     "[Started yesterday at] LT" : "[Komenciĝis hieraŭ je] LT",
-    "[Started on] LL [at] LT" : "[Komenciĝis] LL [je] LT"
+    "[Started on] LL [at] LT" : "[Komenciĝis] LL [je] LT",
+    "Getting in the car" : "Eniro en la aŭton",
+    "Getting out of the car" : "Eliro el la aŭto",
+    "When I arrive at {location}" : "Alveno: {location}",
+    "When I arrive" : "Alveno",
+    "When I leave {location}" : "Foriro: {location}",
+    "When I leave" : "Foriro",
+    "Remind me at a location" : "Memorigu min ĉe loko"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

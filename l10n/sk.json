@@ -350,6 +350,13 @@
     "{time} before the task starts" : "{time} pred začiatkom úlohy",
     "{time} before the task is due" : "{time} pred splnením úlohy",
     "{time} after the task starts" : "{time} po začiatku úlohy",
-    "{time} after the task is due" : "{time} po splnení úlohy"
+    "{time} after the task is due" : "{time} po splnení úlohy",
+    "Getting in the car" : "Nastúpenie do auta",
+    "Getting out of the car" : "Vystúpenie z auta",
+    "When I arrive at {location}" : "Príchod: {location}",
+    "When I arrive" : "Príchod",
+    "When I leave {location}" : "Odchod: {location}",
+    "When I leave" : "Odchod",
+    "Remind me at a location" : "Pripomenúť na mieste"
 },"pluralForm" :"nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && n >= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);"
 }

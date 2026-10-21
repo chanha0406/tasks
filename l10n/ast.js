@@ -293,6 +293,13 @@ OC.L10N.register(
     "[Starts tomorrow at] LT" : "[Comienza mañana:] LT",
     "[Starts on] LL [at] LT" : "[Comienza'l] LL [:] LT",
     "[Started yesterday at] LT" : "[Comenzó ayeri:] LT",
-    "[Started on] LL [at] LT" : "[Comienza'l] LL [:] LT"
+    "[Started on] LL [at] LT" : "[Comienza'l] LL [:] LT",
+    "Getting in the car" : "Al xubir al coche",
+    "Getting out of the car" : "Al baxar del coche",
+    "When I arrive at {location}" : "Al llegar a {location}",
+    "When I arrive" : "Al llegar",
+    "When I leave {location}" : "Al salir de {location}",
+    "When I leave" : "Al salir",
+    "Remind me at a location" : "Recordame nún allugamientu"
 },
 "nplurals=2; plural=(n != 1);");

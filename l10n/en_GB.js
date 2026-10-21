@@ -352,6 +352,13 @@ OC.L10N.register(
     "{time} before the task starts" : "{time} before the task starts",
     "{time} before the task is due" : "{time} before the task is due",
     "{time} after the task starts" : "{time} after the task starts",
-    "{time} after the task is due" : "{time} after the task is due"
+    "{time} after the task is due" : "{time} after the task is due",
+    "Getting in the car" : "Getting in the car",
+    "Getting out of the car" : "Getting out of the car",
+    "When I arrive at {location}" : "When I arrive at {location}",
+    "When I arrive" : "When I arrive",
+    "When I leave {location}" : "When I leave {location}",
+    "When I leave" : "When I leave",
+    "Remind me at a location" : "Remind me at a location"
 },
 "nplurals=2; plural=(n != 1);");

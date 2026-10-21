@@ -340,6 +340,13 @@ OC.L10N.register(
     "{time} before the task starts" : "{time} sebelum tugas dimulai",
     "{time} before the task is due" : "{time} sebelum tugas jatuh tempo",
     "{time} after the task starts" : "{time} setelah tugas dimulai",
-    "{time} after the task is due" : "{time} setelah tugas jatuh tempo"
+    "{time} after the task is due" : "{time} setelah tugas jatuh tempo",
+    "Getting in the car" : "Naik mobil",
+    "Getting out of the car" : "Turun dari mobil",
+    "When I arrive at {location}" : "Tiba: {location}",
+    "When I arrive" : "Tiba",
+    "When I leave {location}" : "Berangkat: {location}",
+    "When I leave" : "Berangkat",
+    "Remind me at a location" : "Ingatkan saya di suatu lokasi"
 },
 "nplurals=1; plural=0;");

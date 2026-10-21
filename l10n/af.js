@@ -57,6 +57,13 @@ OC.L10N.register(
     "All day" : "Heeldag",
     "Details" : "Besonderhede",
     "Notes" : "Notas",
-    "An error occurred" : "'n Fout het voorgekom"
+    "An error occurred" : "'n Fout het voorgekom",
+    "Getting in the car" : "Inklim in die motor",
+    "Getting out of the car" : "Uitklim uit die motor",
+    "When I arrive at {location}" : "Aankoms: {location}",
+    "When I arrive" : "Aankoms",
+    "When I leave {location}" : "Vertrek: {location}",
+    "When I leave" : "Vertrek",
+    "Remind me at a location" : "Herinner my by ’n ligging"
 },
 "nplurals=2; plural=(n != 1);");

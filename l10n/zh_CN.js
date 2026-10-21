@@ -352,6 +352,13 @@ OC.L10N.register(
     "{time} before the task starts" : "在任务开始前 {time}",
     "{time} before the task is due" : "在任务截止前 {time}",
     "{time} after the task starts" : "在任务开始后 {time}",
-    "{time} after the task is due" : "在任务截止后 {time}"
+    "{time} after the task is due" : "在任务截止后 {time}",
+    "Getting in the car" : "上车",
+    "Getting out of the car" : "下车",
+    "When I arrive at {location}" : "到达：{location}",
+    "When I arrive" : "到达",
+    "When I leave {location}" : "离开：{location}",
+    "When I leave" : "离开",
+    "Remind me at a location" : "到达某地时提醒"
 },
 "nplurals=1; plural=0;");

@@ -340,6 +340,13 @@ OC.L10N.register(
     "{time} before the task starts" : "{time} πριν από την έναρξη της εργασίας",
     "{time} before the task is due" : "{time} πριν από τη λήξη της εργασίας",
     "{time} after the task starts" : "{time} μετά την έναρξη της εργασίας",
-    "{time} after the task is due" : "{time} μετά τη λήξη της εργασίας"
+    "{time} after the task is due" : "{time} μετά τη λήξη της εργασίας",
+    "Getting in the car" : "Επιβίβαση στο αυτοκίνητο",
+    "Getting out of the car" : "Αποβίβαση από το αυτοκίνητο",
+    "When I arrive at {location}" : "Άφιξη: {location}",
+    "When I arrive" : "Άφιξη",
+    "When I leave {location}" : "Αναχώρηση: {location}",
+    "When I leave" : "Αναχώρηση",
+    "Remind me at a location" : "Υπενθύμιση σε τοποθεσία"
 },
 "nplurals=2; plural=(n != 1);");

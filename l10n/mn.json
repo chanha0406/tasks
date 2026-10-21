@@ -343,6 +343,13 @@
     "{time} before the task starts" : "Даалгавар эхлэхээс {time} өмнө",
     "{time} before the task is due" : "Даалгаврын хугацаа дуусахаас {time} өмнө",
     "{time} after the task starts" : "Даалгавар эхэлснээс {time} дараа",
-    "{time} after the task is due" : "Даалгаврын хугацаа дууссанаас {time} дараа"
+    "{time} after the task is due" : "Даалгаврын хугацаа дууссанаас {time} дараа",
+    "Getting in the car" : "Машинд суух",
+    "Getting out of the car" : "Машинаас буух",
+    "When I arrive at {location}" : "Ирэх: {location}",
+    "When I arrive" : "Ирэх",
+    "When I leave {location}" : "Гарах: {location}",
+    "When I leave" : "Гарах",
+    "Remind me at a location" : "Байршилд сануул"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

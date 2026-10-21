@@ -98,6 +98,13 @@ OC.L10N.register(
     "last" : "oxirgi",
     "second to last" : "oxiridan ikkinchi",
     "January" : "January",
-    "_{count} time_::_{count} times_" : ["{count} vaqt"]
+    "_{count} time_::_{count} times_" : ["{count} vaqt"],
+    "Getting in the car" : "Mashinaga chiqish",
+    "Getting out of the car" : "Mashinadan tushish",
+    "When I arrive at {location}" : "Yetib kelish: {location}",
+    "When I arrive" : "Yetib kelish",
+    "When I leave {location}" : "Ketish: {location}",
+    "When I leave" : "Ketish",
+    "Remind me at a location" : "Joylashuvda eslat"
 },
 "nplurals=1; plural=0;");

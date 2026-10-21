@@ -213,6 +213,13 @@
     "Successfully updated the task." : "Tehtävä päivitettiin onnistuneesti.",
     "Task successfully moved to new calendar." : "Tehtävä siirretty onnistuneesti uuteen kalenteriin.",
     "An error occurred" : "Tapahtui virhe",
-    "Create a task" : "Luo tehtävä"
+    "Create a task" : "Luo tehtävä",
+    "Getting in the car" : "Autoon noustessa",
+    "Getting out of the car" : "Autosta poistuessa",
+    "When I arrive at {location}" : "Saapuminen: {location}",
+    "When I arrive" : "Saapuminen",
+    "When I leave {location}" : "Lähtö: {location}",
+    "When I leave" : "Lähtö",
+    "Remind me at a location" : "Muistuta sijainnissa"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

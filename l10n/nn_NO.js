@@ -58,6 +58,13 @@ OC.L10N.register(
     "October" : "Oktober",
     "November" : "November",
     "December" : "Desember",
-    "An error occurred" : "Det oppstod ein feil"
+    "An error occurred" : "Det oppstod ein feil",
+    "Getting in the car" : "Når eg set meg inn i bilen",
+    "Getting out of the car" : "Når eg går ut av bilen",
+    "When I arrive at {location}" : "Framkomst: {location}",
+    "When I arrive" : "Framkomst",
+    "When I leave {location}" : "Avreise: {location}",
+    "When I leave" : "Avreise",
+    "Remind me at a location" : "Påminn meg på ein stad"
 },
 "nplurals=2; plural=(n != 1);");

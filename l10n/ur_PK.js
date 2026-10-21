@@ -35,6 +35,13 @@ OC.L10N.register(
     "September" : "ستمبر",
     "October" : "اکتوبر",
     "November" : "نومبر",
-    "December" : "دسمبر"
+    "December" : "دسمبر",
+    "Getting in the car" : "کار میں سوار ہونا",
+    "Getting out of the car" : "کار سے اترنا",
+    "When I arrive at {location}" : "آمد: {location}",
+    "When I arrive" : "آمد",
+    "When I leave {location}" : "روانگی: {location}",
+    "When I leave" : "روانگی",
+    "Remind me at a location" : "مقام پر یاد دلائیں"
 },
 "nplurals=2; plural=(n != 1);");

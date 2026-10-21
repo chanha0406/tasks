@@ -283,6 +283,13 @@
     "when the task is due" : "no prazo da tarefa",
     "{time} before the task starts" : "{time} antes do início da tarefa",
     "{time} before the task is due" : "{time} antes do prazo da tarefa",
-    "{time} after the task starts" : "{time} depois do início da tarefa"
+    "{time} after the task starts" : "{time} depois do início da tarefa",
+    "Getting in the car" : "Ao entrar no carro",
+    "Getting out of the car" : "Ao sair do carro",
+    "When I arrive at {location}" : "Ao chegar a {location}",
+    "When I arrive" : "Ao chegar",
+    "When I leave {location}" : "Ao sair de {location}",
+    "When I leave" : "Ao sair",
+    "Remind me at a location" : "Lembrar-me numa localização"
 },"pluralForm" :"nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;"
 }

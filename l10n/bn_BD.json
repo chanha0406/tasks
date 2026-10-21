@@ -55,6 +55,13 @@
     "October" : "অক্টোবর",
     "November" : "নভেম্বর",
     "December" : "ডিসেম্বর",
-    "in {months}" : "{months} -এ"
+    "in {months}" : "{months} -এ",
+    "Getting in the car" : "গাড়িতে ওঠা",
+    "Getting out of the car" : "গাড়ি থেকে নামা",
+    "When I arrive at {location}" : "আগমন: {location}",
+    "When I arrive" : "আগমন",
+    "When I leave {location}" : "প্রস্থান: {location}",
+    "When I leave" : "প্রস্থান",
+    "Remind me at a location" : "একটি স্থানে মনে করাও"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

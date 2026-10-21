@@ -77,6 +77,13 @@ OC.L10N.register(
     "September" : "Shtator",
     "October" : "Tetor",
     "November" : "Nëntor",
-    "December" : "Dhjetor"
+    "December" : "Dhjetor",
+    "Getting in the car" : "Hyrje në makinë",
+    "Getting out of the car" : "Dalje nga makina",
+    "When I arrive at {location}" : "Mbërritje: {location}",
+    "When I arrive" : "Mbërritje",
+    "When I leave {location}" : "Nisje: {location}",
+    "When I leave" : "Nisje",
+    "Remind me at a location" : "Më kujto në një vendndodhje"
 },
 "nplurals=2; plural=(n != 1);");

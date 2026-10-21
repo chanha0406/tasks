@@ -280,6 +280,13 @@ OC.L10N.register(
     "[Starts tomorrow at] LT" : "[Cumintzat cras a is] LT",
     "[Starts on] LL [at] LT" : "[Cumintzat su] LL [a is] LT",
     "[Started yesterday at] LT" : "[Cumintzadu eris a is] LT",
-    "[Started on] LL [at] LT" : "[Cumintzadu su] LL [a is] LT"
+    "[Started on] LL [at] LT" : "[Cumintzadu su] LL [a is] LT",
+    "Getting in the car" : "Intrada in s'auto",
+    "Getting out of the car" : "Essida de s'auto",
+    "When I arrive at {location}" : "Arribu: {location}",
+    "When I arrive" : "Arribu",
+    "When I leave {location}" : "Partenza: {location}",
+    "When I leave" : "Partenza",
+    "Remind me at a location" : "Ammenta·mi in unu logu"
 },
 "nplurals=2; plural=(n != 1);");

@@ -98,6 +98,13 @@ OC.L10N.register(
     "November" : "Novembre",
     "December" : "Decembre",
     "_{count} time_::_{count} times_" : ["{count} còp","{count} còps"],
-    "An error occurred" : "Una error s’es producha"
+    "An error occurred" : "Una error s’es producha",
+    "Getting in the car" : "Montada dins la veitura",
+    "Getting out of the car" : "Davala de la veitura",
+    "When I arrive at {location}" : "Arribada : {location}",
+    "When I arrive" : "Arribada",
+    "When I leave {location}" : "Partença : {location}",
+    "When I leave" : "Partença",
+    "Remind me at a location" : "Me rapelar a un luòc"
 },
 "nplurals=2; plural=(n > 1);");

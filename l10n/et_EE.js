@@ -352,6 +352,13 @@ OC.L10N.register(
     "{time} before the task starts" : "{time} enne ülesande algust",
     "{time} before the task is due" : "{time} enne ülesande tähtaega",
     "{time} after the task starts" : "{time} peale ülesande algust",
-    "{time} after the task is due" : "{time} peale ülesande tähtaega"
+    "{time} after the task is due" : "{time} peale ülesande tähtaega",
+    "Getting in the car" : "Autosse istumine",
+    "Getting out of the car" : "Autost väljumine",
+    "When I arrive at {location}" : "Saabumine: {location}",
+    "When I arrive" : "Saabumine",
+    "When I leave {location}" : "Lahkumine: {location}",
+    "When I leave" : "Lahkumine",
+    "Remind me at a location" : "Tuleta meelde asukohas"
 },
 "nplurals=2; plural=(n != 1);");

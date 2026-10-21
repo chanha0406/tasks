@@ -65,6 +65,13 @@ OC.L10N.register(
     "September" : "September",
     "October" : "Oktober",
     "November" : "November",
-    "December" : "Dezember"
+    "December" : "Dezember",
+    "Getting in the car" : "An den Auto klammen",
+    "Getting out of the car" : "Aus dem Auto klammen",
+    "When I arrive at {location}" : "Ukunft: {location}",
+    "When I arrive" : "Ukunft",
+    "When I leave {location}" : "Verloossen: {location}",
+    "When I leave" : "Verloossen",
+    "Remind me at a location" : "Op enger Plaz erënneren"
 },
 "nplurals=2; plural=(n != 1);");

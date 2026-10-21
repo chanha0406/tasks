@@ -113,6 +113,13 @@
     "December" : "Rhagfyr",
     "on day {days}" : "ar ddiwrnod {days}",
     "_{count} time_::_{count} times_" : ["{count} waith","{count} o weithiau","{count} o weithiau","{count} o weithiau"],
-    "An error occurred" : "Digwyddodd gwall"
+    "An error occurred" : "Digwyddodd gwall",
+    "Getting in the car" : "Wrth fynd i'r car",
+    "Getting out of the car" : "Wrth fynd allan o'r car",
+    "When I arrive at {location}" : "Wrth gyrraedd {location}",
+    "When I arrive" : "Wrth gyrraedd",
+    "When I leave {location}" : "Wrth adael {location}",
+    "When I leave" : "Wrth adael",
+    "Remind me at a location" : "Atgoffa fi mewn lleoliad"
 },"pluralForm" :"nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;"
 }

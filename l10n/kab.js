@@ -69,6 +69,13 @@ OC.L10N.register(
     "November" : "Wamber",
     "December" : "Dujamber",
     "in {months}" : "deg {months}",
-    "An error occurred" : "Teḍra-d tuccḍa"
+    "An error occurred" : "Teḍra-d tuccḍa",
+    "Getting in the car" : "Anekcum ɣer tkeṛṛust",
+    "Getting out of the car" : "Tuffɣa seg tkeṛṛust",
+    "When I arrive at {location}" : "Tawḍa: {location}",
+    "When I arrive" : "Tawḍa",
+    "When I leave {location}" : "Tuffɣa: {location}",
+    "When I leave" : "Tuffɣa",
+    "Remind me at a location" : "Smekti-iyi-d deg umḍiq"
 },
 "nplurals=2; plural=(n != 1);");
