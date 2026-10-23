@@ -212,6 +212,13 @@
     "[Was due yesterday]" : "[昨日が期限]",
     "[Starts today]" : "[今日開始]",
     "[Starts tomorrow]" : "[明日開始]",
-    "[Started yesterday]" : "[昨日から]"
+    "[Started yesterday]" : "[昨日から]",
+    "Getting in the car" : "車に乗車",
+    "Getting out of the car" : "車から降車",
+    "When I arrive at {location}" : "{location}到着時",
+    "When I arrive" : "到着時",
+    "When I leave {location}" : "{location}出発時",
+    "When I leave" : "出発時",
+    "Remind me at a location" : "場所で通知"
 },"pluralForm" :"nplurals=1; plural=0;"
 }

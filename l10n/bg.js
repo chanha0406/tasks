@@ -302,6 +302,13 @@ OC.L10N.register(
     "[Starts tomorrow at] LT" : "[Започва утре в] LT",
     "[Starts on] LL [at] LT" : "[Започва на]  LL  [в] LT",
     "[Started yesterday at] LT" : "[Започнато вчера в] LT",
-    "[Started on] LL [at] LT" : "[Започнато на]  LL  [в] LT"
+    "[Started on] LL [at] LT" : "[Започнато на]  LL  [в] LT",
+    "Getting in the car" : "Качване в колата",
+    "Getting out of the car" : "Слизане от колата",
+    "When I arrive at {location}" : "Пристигане: {location}",
+    "When I arrive" : "Пристигане",
+    "When I leave {location}" : "Заминаване: {location}",
+    "When I leave" : "Заминаване",
+    "Remind me at a location" : "Напомни ми на място"
 },
 "nplurals=2; plural=(n != 1);");

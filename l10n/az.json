@@ -56,6 +56,13 @@
     "September" : "Sentyabr",
     "October" : "Oktyabr",
     "November" : "Noyabr.",
-    "December" : "Dekabr"
+    "December" : "Dekabr",
+    "Getting in the car" : "Maşına minmə",
+    "Getting out of the car" : "Maşından düşmə",
+    "When I arrive at {location}" : "Gəliş: {location}",
+    "When I arrive" : "Gəliş",
+    "When I leave {location}" : "Gediş: {location}",
+    "When I leave" : "Gediş",
+    "Remind me at a location" : "Yerdə xatırlat"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

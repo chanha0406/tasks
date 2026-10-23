@@ -352,6 +352,13 @@ OC.L10N.register(
     "{time} before the task starts" : "{time} قبل از شروع وظیفه",
     "{time} before the task is due" : "{time} قبل از سررسید وظیفه",
     "{time} after the task starts" : "{time} پس از شروع وظیفه",
-    "{time} after the task is due" : "{time} پس از مهلت وظیفه"
+    "{time} after the task is due" : "{time} پس از مهلت وظیفه",
+    "Getting in the car" : "سوار شدن به خودرو",
+    "Getting out of the car" : "پیاده شدن از خودرو",
+    "When I arrive at {location}" : "ورود: {location}",
+    "When I arrive" : "ورود",
+    "When I leave {location}" : "خروج: {location}",
+    "When I leave" : "خروج",
+    "Remind me at a location" : "در یک مکان یادآوری کن"
 },
 "nplurals=2; plural=(n > 1);");

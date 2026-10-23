@@ -352,6 +352,13 @@ OC.L10N.register(
     "{time} before the task starts" : "{time} idővel a feladat kezdete előtt",
     "{time} before the task is due" : "{time} idővel a feladat határideje előtt",
     "{time} after the task starts" : "{time} idővel a feladat kezdete után",
-    "{time} after the task is due" : "{time} idővel a feladat határideje után"
+    "{time} after the task is due" : "{time} idővel a feladat határideje után",
+    "Getting in the car" : "Beszállás az autóba",
+    "Getting out of the car" : "Kiszállás az autóból",
+    "When I arrive at {location}" : "Érkezés: {location}",
+    "When I arrive" : "Érkezés",
+    "When I leave {location}" : "Indulás: {location}",
+    "When I leave" : "Indulás",
+    "Remind me at a location" : "Emlékeztetés egy helyen"
 },
 "nplurals=2; plural=(n != 1);");

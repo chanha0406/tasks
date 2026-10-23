@@ -133,6 +133,13 @@ OC.L10N.register(
     "Create a task" : "Стварыць заданне",
     "Message from {author} in {conversationName}" : "Паведамленне ад {author} у {conversationName}",
     "[Starts tomorrow]" : "[Пачынаецца заўтра]",
-    "[Starts tomorrow at] LT" : "[Пачынаецца заўтра ў]"
+    "[Starts tomorrow at] LT" : "[Пачынаецца заўтра ў]",
+    "Getting in the car" : "Пасадка ў аўто",
+    "Getting out of the car" : "Высадка з аўто",
+    "When I arrive at {location}" : "Прыбыццё: {location}",
+    "When I arrive" : "Прыбыццё",
+    "When I leave {location}" : "Ад’езд: {location}",
+    "When I leave" : "Ад’езд",
+    "Remind me at a location" : "Нагадаць у месцы"
 },
 "nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);");

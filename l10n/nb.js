@@ -313,6 +313,13 @@ OC.L10N.register(
     "[Starts tomorrow at] LT" : "[Starter i morgen kl.] LT",
     "[Starts on] LL [at] LT" : "[Starter den] LL [kl.] LT",
     "[Started yesterday at] LT" : "[Startet i går kl.] LT",
-    "[Started on] LL [at] LT" : "[Startet den] LL [kl.] LT"
+    "[Started on] LL [at] LT" : "[Startet den] LL [kl.] LT",
+    "Getting in the car" : "Når jeg setter meg inn i bilen",
+    "Getting out of the car" : "Når jeg går ut av bilen",
+    "When I arrive at {location}" : "Ankomst: {location}",
+    "When I arrive" : "Ankomst",
+    "When I leave {location}" : "Avreise: {location}",
+    "When I leave" : "Avreise",
+    "Remind me at a location" : "Påminn meg på et sted"
 },
 "nplurals=2; plural=(n != 1);");

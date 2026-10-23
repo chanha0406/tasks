@@ -74,6 +74,13 @@ OC.L10N.register(
     "September" : "Septiembre",
     "October" : "Octubre",
     "November" : "Noviembre",
-    "December" : "Diciembre"
+    "December" : "Diciembre",
+    "Getting in the car" : "Al subir al coche",
+    "Getting out of the car" : "Al bajar del coche",
+    "When I arrive at {location}" : "Al llegar a {location}",
+    "When I arrive" : "Al llegar",
+    "When I leave {location}" : "Al salir de {location}",
+    "When I leave" : "Al salir",
+    "Remind me at a location" : "Recordarme en una ubicación"
 },
 "nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;");

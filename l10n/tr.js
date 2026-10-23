@@ -352,6 +352,13 @@ OC.L10N.register(
     "{time} before the task starts" : "Görev başlamadan {time} önce",
     "{time} before the task is due" : "Görev bitmeden {time} önce",
     "{time} after the task starts" : "Görev başladıktan {time} sonra",
-    "{time} after the task is due" : "Görev bittikten {time} sonra"
+    "{time} after the task is due" : "Görev bittikten {time} sonra",
+    "Getting in the car" : "Araca binerken",
+    "Getting out of the car" : "Araçtan inerken",
+    "When I arrive at {location}" : "Varış: {location}",
+    "When I arrive" : "Varış",
+    "When I leave {location}" : "Ayrılış: {location}",
+    "When I leave" : "Ayrılış",
+    "Remind me at a location" : "Bir konumda hatırlat"
 },
 "nplurals=2; plural=(n > 1);");

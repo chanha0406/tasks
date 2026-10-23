@@ -43,6 +43,13 @@ OC.L10N.register(
     "September" : "புரட்டாசி",
     "October" : "ஐப்பசி",
     "November" : "கார்த்திகை",
-    "December" : "மார்கழி"
+    "December" : "மார்கழி",
+    "Getting in the car" : "காரில் ஏறும்போது",
+    "Getting out of the car" : "காரிலிருந்து இறங்கும்போது",
+    "When I arrive at {location}" : "வருகை: {location}",
+    "When I arrive" : "வருகை",
+    "When I leave {location}" : "புறப்பாடு: {location}",
+    "When I leave" : "புறப்பாடு",
+    "Remind me at a location" : "ஒரு இடத்தில் நினைவூட்டு"
 },
 "nplurals=2; plural=(n != 1);");

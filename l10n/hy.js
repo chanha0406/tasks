@@ -45,6 +45,13 @@ OC.L10N.register(
     "September" : "Սեպտեմբեր",
     "October" : "Հոկտեմբեր",
     "November" : "Նոյեմբեր",
-    "December" : "Դեկտեմբեր"
+    "December" : "Դեկտեմբեր",
+    "Getting in the car" : "Մեքենա նստելը",
+    "Getting out of the car" : "Մեքենայից իջնելը",
+    "When I arrive at {location}" : "Ժամանում: {location}",
+    "When I arrive" : "Ժամանում",
+    "When I leave {location}" : "Մեկնում: {location}",
+    "When I leave" : "Մեկնում",
+    "Remind me at a location" : "Հիշեցնել վայրում"
 },
 "nplurals=2; plural=(n != 1);");

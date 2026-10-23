@@ -178,6 +178,13 @@ OC.L10N.register(
     "An error occurred" : "Gadījās kļūda",
     "[Was due today at] LT" : "[Beidzās šodien] LT",
     "[Starts today]" : "[Sāksies šodien]",
-    "[Starts today at] LT" : "[Sāksies šodien] LT"
+    "[Starts today at] LT" : "[Sāksies šodien] LT",
+    "Getting in the car" : "Iekāpšana automašīnā",
+    "Getting out of the car" : "Izkāpšana no automašīnas",
+    "When I arrive at {location}" : "Ierašanās: {location}",
+    "When I arrive" : "Ierašanās",
+    "When I leave {location}" : "Izbraukšana: {location}",
+    "When I leave" : "Izbraukšana",
+    "Remind me at a location" : "Atgādināt atrašanās vietā"
 },
 "nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);");

@@ -339,6 +339,13 @@
     "{time} before the task starts" : "{time} пред започнување на задачата",
     "{time} before the task is due" : "{time} пред рокот на задачата",
     "{time} after the task starts" : "{time} по започнување на задачата",
-    "{time} after the task is due" : "{time} по рокот на задачата"
+    "{time} after the task is due" : "{time} по рокот на задачата",
+    "Getting in the car" : "Качување во автомобил",
+    "Getting out of the car" : "Симнување од автомобил",
+    "When I arrive at {location}" : "Пристигнување: {location}",
+    "When I arrive" : "Пристигнување",
+    "When I leave {location}" : "Заминување: {location}",
+    "When I leave" : "Заминување",
+    "Remind me at a location" : "Потсети ме на локација"
 },"pluralForm" :"nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1;"
 }

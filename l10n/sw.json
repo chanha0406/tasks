@@ -336,6 +336,13 @@
     "{time} before the task starts" : "{time} kabla ya kazi kuanza",
     "{time} before the task is due" : "{time} kabla ya kazi kufaa",
     "{time} after the task starts" : "{time} baada ya kazi kuanza",
-    "{time} after the task is due" : "{time} baada ya kazi kukamilika"
+    "{time} after the task is due" : "{time} baada ya kazi kukamilika",
+    "Getting in the car" : "Kupanda gari",
+    "Getting out of the car" : "Kushuka gari",
+    "When I arrive at {location}" : "Kuwasili: {location}",
+    "When I arrive" : "Kuwasili",
+    "When I leave {location}" : "Kuondoka: {location}",
+    "When I leave" : "Kuondoka",
+    "Remind me at a location" : "Nikumbushe mahali"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

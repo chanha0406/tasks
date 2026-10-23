@@ -38,6 +38,13 @@ OC.L10N.register(
     "September" : "September",
     "October" : "Oktober",
     "November" : "November",
-    "December" : "Disember"
+    "December" : "Disember",
+    "Getting in the car" : "Naik kereta",
+    "Getting out of the car" : "Turun dari kereta",
+    "When I arrive at {location}" : "Tiba: {location}",
+    "When I arrive" : "Tiba",
+    "When I leave {location}" : "Berlepas: {location}",
+    "When I leave" : "Berlepas",
+    "Remind me at a location" : "Ingatkan saya di suatu lokasi"
 },
 "nplurals=1; plural=0;");

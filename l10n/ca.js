@@ -339,6 +339,13 @@ OC.L10N.register(
     "{time} before the task starts" : "{time} abans que comenci la tasca",
     "{time} before the task is due" : "{time} abans del termini de la tasca",
     "{time} after the task starts" : "{time} després que comenci la tasca",
-    "{time} after the task is due" : "{time} després del termini de la tasca"
+    "{time} after the task is due" : "{time} després del termini de la tasca",
+    "Getting in the car" : "En pujar al cotxe",
+    "Getting out of the car" : "En baixar del cotxe",
+    "When I arrive at {location}" : "En arribar a {location}",
+    "When I arrive" : "En arribar",
+    "When I leave {location}" : "En sortir de {location}",
+    "When I leave" : "En sortir",
+    "Remind me at a location" : "Recorda’m en una ubicació"
 },
 "nplurals=2; plural=(n != 1);");

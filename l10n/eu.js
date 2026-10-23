@@ -313,6 +313,13 @@ OC.L10N.register(
     "[Starts tomorrow at] LT" : "[Bihar hasten da ordu honetan] LT",
     "[Starts on] LL [at] LT" : "LL [hasiko da ordu honetan] LT",
     "[Started yesterday at] LT" : "[Atzo hasi zen ordu honetan] LT",
-    "[Started on] LL [at] LT" : "LL [hasi da ordu honetan] LT"
+    "[Started on] LL [at] LT" : "LL [hasi da ordu honetan] LT",
+    "Getting in the car" : "Autora igotzean",
+    "Getting out of the car" : "Autotik jaistean",
+    "When I arrive at {location}" : "Iritsiera: {location}",
+    "When I arrive" : "Iritsiera",
+    "When I leave {location}" : "Irteera: {location}",
+    "When I leave" : "Irteera",
+    "Remind me at a location" : "Kokalekuan gogorarazi"
 },
 "nplurals=2; plural=(n != 1);");

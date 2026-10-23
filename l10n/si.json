@@ -37,6 +37,13 @@
     "September" : "සැප්තැම්බර්",
     "October" : "ඔක්තෝම්බර්",
     "November" : "නොවැම්බර්",
-    "December" : "දෙසැම්බර්"
+    "December" : "දෙසැම්බර්",
+    "Getting in the car" : "මෝටර් රථයට නැගීම",
+    "Getting out of the car" : "මෝටර් රථයෙන් බැසීම",
+    "When I arrive at {location}" : "පැමිණීම: {location}",
+    "When I arrive" : "පැමිණීම",
+    "When I leave {location}" : "පිටවීම: {location}",
+    "When I leave" : "පිටවීම",
+    "Remind me at a location" : "ස්ථානයකදී මට මතක් කරන්න"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

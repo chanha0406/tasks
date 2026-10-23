@@ -352,6 +352,13 @@ OC.L10N.register(
     "{time} before the task starts" : "{time} prije početka zadatka",
     "{time} before the task is due" : "{time} prije isteka roka zadatka",
     "{time} after the task starts" : "{time} nakon početka zadatka",
-    "{time} after the task is due" : "{time} nakon isteka roka zadatka"
+    "{time} after the task is due" : "{time} nakon isteka roka zadatka",
+    "Getting in the car" : "Ulazak u auto",
+    "Getting out of the car" : "Izlazak iz auta",
+    "When I arrive at {location}" : "Dolazak: {location}",
+    "When I arrive" : "Dolazak",
+    "When I leave {location}" : "Odlazak: {location}",
+    "When I leave" : "Odlazak",
+    "Remind me at a location" : "Podsjeti me na lokaciji"
 },
 "nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;");

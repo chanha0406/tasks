@@ -352,6 +352,13 @@ OC.L10N.register(
     "{time} before the task starts" : "{time} перед початком завдання",
     "{time} before the task is due" : "{time} перед завершенням завдання",
     "{time} after the task starts" : "{time} після початку завдання",
-    "{time} after the task is due" : "{time} після завершення завдання"
+    "{time} after the task is due" : "{time} після завершення завдання",
+    "Getting in the car" : "Посадка в авто",
+    "Getting out of the car" : "Висадка з авто",
+    "When I arrive at {location}" : "Прибуття: {location}",
+    "When I arrive" : "Прибуття",
+    "When I leave {location}" : "Від’їзд: {location}",
+    "When I leave" : "Від’їзд",
+    "Remind me at a location" : "Нагадати в місці"
 },
 "nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);");

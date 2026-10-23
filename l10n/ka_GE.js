@@ -72,6 +72,13 @@ OC.L10N.register(
     "September" : "სექტემბერი",
     "October" : "ოქტომბერი",
     "November" : "ნოემბერი",
-    "December" : "დეკემბერი"
+    "December" : "დეკემბერი",
+    "Getting in the car" : "მანქანაში ჩაჯდომა",
+    "Getting out of the car" : "მანქანიდან გადმოსვლა",
+    "When I arrive at {location}" : "ჩასვლა: {location}",
+    "When I arrive" : "ჩასვლა",
+    "When I leave {location}" : "გასვლა: {location}",
+    "When I leave" : "გასვლა",
+    "Remind me at a location" : "შემახსენე ადგილზე"
 },
 "nplurals=2; plural=(n!=1);");

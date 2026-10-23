@@ -337,6 +337,13 @@ OC.L10N.register(
     "{time} before the task starts" : "{time} áður en verk hefst",
     "{time} before the task is due" : "{time} áður en verkinu á að vera lokið",
     "{time} after the task starts" : "{time} eftir að verk hefst",
-    "{time} after the task is due" : "{time} eftir að verkinu á að vera lokið"
+    "{time} after the task is due" : "{time} eftir að verkinu á að vera lokið",
+    "Getting in the car" : "Þegar farið er inn í bílinn",
+    "Getting out of the car" : "Þegar farið er út úr bílnum",
+    "When I arrive at {location}" : "Koma: {location}",
+    "When I arrive" : "Koma",
+    "When I leave {location}" : "Brottför: {location}",
+    "When I leave" : "Brottför",
+    "Remind me at a location" : "Minntu mig á stað"
 },
 "nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);");

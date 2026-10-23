@@ -291,6 +291,13 @@ OC.L10N.register(
     "[Starts tomorrow at] LT" : "[Začne se jutri ob] LT",
     "[Starts on] LL [at] LT" : "[Začne se na] LL [ob] LT",
     "[Started yesterday at] LT" : "[Začelo se je včeraj ob] LT",
-    "[Started on] LL [at] LT" : "[Začeto na] LL [ob] LT"
+    "[Started on] LL [at] LT" : "[Začeto na] LL [ob] LT",
+    "Getting in the car" : "Vstop v avto",
+    "Getting out of the car" : "Izstop iz avta",
+    "When I arrive at {location}" : "Prihod: {location}",
+    "When I arrive" : "Prihod",
+    "When I leave {location}" : "Odhod: {location}",
+    "When I leave" : "Odhod",
+    "Remind me at a location" : "Opomni me na lokaciji"
 },
 "nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);");

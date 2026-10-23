@@ -46,6 +46,13 @@ OC.L10N.register(
     "September" : "ខែកញ្ញា",
     "October" : "ខែតុលា",
     "November" : "ខែវិច្ឆិកា",
-    "December" : "ខែធ្នូ"
+    "December" : "ខែធ្នូ",
+    "Getting in the car" : "ឡើងឡាន",
+    "Getting out of the car" : "ចុះពីឡាន",
+    "When I arrive at {location}" : "មកដល់៖ {location}",
+    "When I arrive" : "មកដល់",
+    "When I leave {location}" : "ចាកចេញ៖ {location}",
+    "When I leave" : "ចាកចេញ",
+    "Remind me at a location" : "រំលឹកខ្ញុំនៅទីតាំង"
 },
 "nplurals=1; plural=0;");

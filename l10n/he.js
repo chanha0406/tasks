@@ -227,6 +227,13 @@ OC.L10N.register(
     "[Starts tomorrow at] LT" : "[מתחילה מחר בשעה] LT",
     "[Starts on] LL [at] LT" : "[מתחילה ביום] LL [בשעה] LT",
     "[Started yesterday at] LT" : "[החלה אתמול בשעה] LT",
-    "[Started on] LL [at] LT" : "[החלה ביום] LL [בשעה] LT"
+    "[Started on] LL [at] LT" : "[החלה ביום] LL [בשעה] LT",
+    "Getting in the car" : "בעלייה לרכב",
+    "Getting out of the car" : "בירידה מהרכב",
+    "When I arrive at {location}" : "בהגעה אל {location}",
+    "When I arrive" : "בהגעה",
+    "When I leave {location}" : "בעזיבת {location}",
+    "When I leave" : "בעזיבה",
+    "Remind me at a location" : "הזכר לי במיקום"
 },
 "nplurals=3; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % 1 == 0) ? 1: 2;");

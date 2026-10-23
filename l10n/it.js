@@ -321,6 +321,13 @@ OC.L10N.register(
     "[Started yesterday at] LT" : "[Iniziata ieri alle] LT",
     "[Started on] LL [at] LT" : "[Iniziata il] LL [alle] LT",
     "at the task's start" : "all'inizio dell'attività",
-    "when the task is due" : "quando l'attività è scaduta"
+    "when the task is due" : "quando l'attività è scaduta",
+    "Getting in the car" : "Salita in auto",
+    "Getting out of the car" : "Discesa dall'auto",
+    "When I arrive at {location}" : "Arrivo: {location}",
+    "When I arrive" : "Arrivo",
+    "When I leave {location}" : "Partenza: {location}",
+    "When I leave" : "Partenza",
+    "Remind me at a location" : "Promemoria in una posizione"
 },
 "nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;");

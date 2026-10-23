@@ -340,6 +340,13 @@ OC.L10N.register(
     "{time} before the task starts" : "{time} before the task starts",
     "{time} before the task is due" : "{time} before the task is due",
     "{time} after the task starts" : "{time} after the task starts",
-    "{time} after the task is due" : "{time} after the task is due"
+    "{time} after the task is due" : "{time} after the task is due",
+    "Getting in the car" : "ຂຶ້ນລົດ",
+    "Getting out of the car" : "ລົງຈາກລົດ",
+    "When I arrive at {location}" : "ຮອດ: {location}",
+    "When I arrive" : "ຮອດ",
+    "When I leave {location}" : "ອອກ: {location}",
+    "When I leave" : "ອອກ",
+    "Remind me at a location" : "ເຕືອນຂ້ອຍທີ່ສະຖານທີ່"
 },
 "nplurals=1; plural=0;");

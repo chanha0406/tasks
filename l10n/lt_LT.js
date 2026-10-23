@@ -352,6 +352,13 @@ OC.L10N.register(
     "{time} before the task starts" : "{time} prieš pradedant užduotį",
     "{time} before the task is due" : "{time} iki užduoties atlikimo termino",
     "{time} after the task starts" : "{time} pradėjus užduotį",
-    "{time} after the task is due" : "{time} pasibaigus užduoties atlikimo terminui"
+    "{time} after the task is due" : "{time} pasibaigus užduoties atlikimo terminui",
+    "Getting in the car" : "Įlipimas į automobilį",
+    "Getting out of the car" : "Išlipimas iš automobilio",
+    "When I arrive at {location}" : "Atvykimas: {location}",
+    "When I arrive" : "Atvykimas",
+    "When I leave {location}" : "Išvykimas: {location}",
+    "When I leave" : "Išvykimas",
+    "Remind me at a location" : "Priminti vietoje"
 },
 "nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);");

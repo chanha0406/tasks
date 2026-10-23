@@ -130,6 +130,13 @@ OC.L10N.register(
     "December" : "Tháng 12",
     "_{count} time_::_{count} times_" : ["{count} lần"],
     "An error occurred" : "Có lỗi đã xảy ra",
-    "Message from {author} in {conversationName}" : "Tin nhắn từ {author} trong {conversationName}"
+    "Message from {author} in {conversationName}" : "Tin nhắn từ {author} trong {conversationName}",
+    "Getting in the car" : "Lên xe",
+    "Getting out of the car" : "Xuống xe",
+    "When I arrive at {location}" : "Đến: {location}",
+    "When I arrive" : "Đến",
+    "When I leave {location}" : "Rời: {location}",
+    "When I leave" : "Rời",
+    "Remind me at a location" : "Nhắc tôi tại một vị trí"
 },
 "nplurals=1; plural=0;");
